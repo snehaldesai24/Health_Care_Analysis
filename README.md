@@ -1,6 +1,6 @@
-# 🩺 Health Risk Analysis Dashboard using Python & Power BI
+# 🩺 Health Risk Analysis Dashboard using Power BI
 
-This project focuses on analyzing a health-related dataset to uncover insights about patient diagnoses, lifestyle habits, and risk factors. It uses **Python** for data preprocessing and detailed statistical analysis and **Power BI** for building interactive dashboards and visualizations.
+This project focuses on analyzing a health-related dataset to uncover insights about patient diagnoses, lifestyle habits, and risk factors. **Power BI** for building interactive dashboards and visualizations.
 
 ---
 
@@ -44,22 +44,4 @@ The following insights are generated:
 
 | Tool        | Purpose                                      |
 |-------------|----------------------------------------------|
-| Python 3.x  | Data cleaning and analysis (pandas, seaborn) |
 | Power BI    | Interactive dashboard and visual storytelling|
-| Pandas      | Data processing                              |
-| Seaborn     | Visualizations in Python                     |
-| Jupyter/Colab | Running and presenting Python notebooks     |
-
----
-
-## 📁 Project Structure
-
-```plaintext
-📦Health_Risk_Analysis/
-│
-├── 📄 health_analysis.ipynb         # Python analysis with graphs
-├── 📄 Health_Dashboard.pbix         # Power BI report file
-├── 📄 requirements.txt              # Python dependencies
-├── 📄 README.md                     # This file
-├── 📁 images/                       # Saved charts (Python)
-└── 📄 patient_diagnosis.csv         # Dataset used
